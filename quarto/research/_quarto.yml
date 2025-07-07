@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "research"
+  author: "Norah Jones"
+  date: "05/07/2025"
+  chapters:
+    - index.qmd
+    - real-time-rl.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: ieee.csl
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+

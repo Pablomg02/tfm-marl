@@ -1,0 +1,31 @@
+project:
+  type: book
+
+book:
+  title: "Desarrollo de algoritmos multiagente para control de flotas de drones"
+  author: "Pablo Magariños Docampo"
+  date: 2026-01-01
+  subtitle: "Trabajo de Fin de Máster"
+  cover-image: images/logo_m2i.jpg
+  language: es
+  status: draft
+
+  chapters:
+    - index.qmd
+    - contenido/intro.qmd
+    - contenido/marco-teorico.qmd
+    - contenido/metodologia.qmd
+    - contenido/references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+

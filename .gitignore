@@ -1,3 +1,9 @@
+# Quarto
+_book 
+# No se guardan las compilaciones de los libros
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

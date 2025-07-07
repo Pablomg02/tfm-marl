@@ -1,0 +1,9 @@
+# Real Time Reinforcement Learning
+
+## Real-Time Reinforcement Learning @ramstedt2019realtimereinforcementlearning
+
+
+### Descripción
+- **Año:** 2019
+
+Este artículo introduce, básicamente, el RTRL. Habla de que introducie un framework en el que el escenario y las acciones evolucionan simultaneamente
