@@ -1,5 +1,4 @@
-# Preface {.unnumbered}
+# Introducción {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Este libro tiene como objetivo recopilar los mejores papers y otros artículos que se han encontrado, y que pueden tener utilidad
+directa a la hora de preparar el Trabajo de Fin de Máster.

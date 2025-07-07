@@ -2,16 +2,21 @@ project:
   type: book
 
 book:
-  title: "research"
-  author: "Norah Jones"
+  title: "Papers para el TFM"
+  author: "Pablo Magariños Docampo"
   date: "05/07/2025"
   chapters:
     - index.qmd
-    - real-time-rl.qmd
+    - part: "Graph Neural Networks"
+      chapters:
+      - Contenido/graph-neural-networks.qmd
+    - part: "Real-Time Reinforcement Learning"
+      chapters:
+      - Contenido/real-time-rl.qmd
     - references.qmd
 
 bibliography: references.bib
-csl: ieee.csl
+csl: estilos/ieee.csl
 
 format:
   html:
