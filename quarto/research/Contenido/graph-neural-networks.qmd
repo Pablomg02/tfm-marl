@@ -1,0 +1,27 @@
+# Graph-Based Multi-Agent reinforcement Learning For Collaborative Search and Tracking of Multiple UAVs (@ZHAO2025103214)
+
+## Contexto
+El paper utiliza una Graph Neural Network para relacionar los drones y transmitir información entre ellos. Además, los grafos
+no solo son los drones, sino también los objetivos y los obstáculos.
+
+## Contribuciones
+
+- La información que los drones reciben a través de la Graph Neural Network se debe encontrar en un radio pequeño. No reciben información de drones, 
+obstáculos ni objetivos lejanos.
+- Utiliza una Graph Attention Network, de manera que puede contextualizar todas las observaciones externas.
+- Menciona que la mayoría de los papers se centran en resolver problemas donde la información general es conocida, lo cual no suele ocurrir en la realidad.
+- El paper habla del Decentralized Markov Decision Process (Dec-MDP), donde cada agente toma decisiones basadas en su propia observación local y la información recibida de sus vecinos a través del grafo.
+- Explica que el objetivo del sistema es maximizar una función Q-Value. Utiliza una mixing network para obtener la Q-Value final.
+
+
+
+# Hierarchical RNNs With Graph Policy and Attention for Drone Swarm (@10.1093/jcde/qwae031)
+
+## Contexto
+
+Resumen breve del contenido del paper
+
+## Contribuciones
+
+Principales aportaciones del paper
+
